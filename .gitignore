@@ -38,9 +38,5 @@ Thumbs.db
 *.sublime-project
 *.sublime-workspace
 
-# Tailwind CSS
-tailwind.config.js
-tailwind.config.cjs
-
 # Optional: npm global bin
 .npm/
